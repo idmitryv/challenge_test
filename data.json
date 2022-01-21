@@ -1,0 +1,100 @@
+{
+  "signup": [
+    {
+      "email": "test1",
+      "phone": "123456778",
+      "id": "d23"
+    },
+    {
+      "email": "test1@gmail.com",
+      "phone": "123456778",
+      "id": "1"
+    },
+    {
+      "id": "3333",
+      "email": "test2@gmail.com"
+    },
+    {
+      "id": "2222",
+      "email": "test2@gmail.com"
+    },
+    {
+      "email": "fsaldfev1@gmail.com",
+      "phone": "",
+      "id": "7Dh_elv"
+    },
+    {
+      "email": "",
+      "phone": "12345",
+      "id": "8iB8Z96"
+    },
+    {
+      "email": "acasdas",
+      "phone": "",
+      "id": "t9N-98i"
+    },
+    {
+      "email": "acasdas",
+      "phone": "",
+      "id": "2N-BeBn"
+    },
+    {
+      "email": "SDASD",
+      "phone": "",
+      "id": "YZdI29s"
+    },
+    {
+      "email": "test2@gmail.com",
+      "phone": "",
+      "id": "Gi_iOHp"
+    }
+  ],
+  "verify": [
+    {
+      "code": "123123",
+      "id": "21"
+    },
+    {
+      "id": "54544545",
+      "code": "test2@gmail.com"
+    },
+    {
+      "code": "otp",
+      "id": "w6ziDis"
+    },
+    {
+      "code": "otp",
+      "id": "Umk9aVM"
+    },
+    {
+      "code": "123457",
+      "id": "aR8d3Hg"
+    },
+    {
+      "code": "123456",
+      "id": "6O2LLUW"
+    }
+  ],
+  "createUser": [
+    {
+      "name": "",
+      "accountID": "",
+      "id": "1"
+    },
+    {
+      "name": "asdas",
+      "accountID": "asdsa",
+      "id": "QzLsfJD"
+    }
+  ],
+  "userPassword": [
+    {
+      "pasword": "",
+      "id": "1"
+    },
+    {
+      "password": "123",
+      "id": "hUqDbMl"
+    }
+  ]
+}
